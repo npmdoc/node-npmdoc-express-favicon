@@ -61,12 +61,42 @@
 
     <li class="apidocModuleLi"><a href="#apidoc.module.express-favicon">module express-favicon</a><ol>
 
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.express-favicon.express-favicon">
+            function <span class="apidocSignatureSpan"></span>express-favicon
+            <span class="apidocSignatureSpan">(file, pattern)</span>
+            </a>
+
+        </li>
+
     </ol></li>
 
 </ol></div>
 
 <div class="apidocSectionDiv">
 <h1><a href="#apidoc.module.express-favicon" id="apidoc.module.express-favicon">module express-favicon</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.express-favicon.express-favicon" id="apidoc.element.express-favicon.express-favicon">
+        function <span class="apidocSignatureSpan"></span>express-favicon
+        <span class="apidocSignatureSpan">(file, pattern)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">(file, pattern) =&#x3e; {
+	pattern = pattern || /\/favicon\.png$/;
+
+	return (req, res, next) =&#x3e; {
+		if (pattern.test(req.url))
+			res.sendFile(file);
+		else next();
+	};
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
 
 </div>
 
