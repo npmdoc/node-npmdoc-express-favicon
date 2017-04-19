@@ -1,9 +1,14 @@
-# api documentation for  [express-favicon (v2.0.0)](https://github.com/song940/express-favicon)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-favicon.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-favicon) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-favicon.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-favicon)
+# npmdoc-express-favicon
+
+#### api documentation for  [express-favicon (v2.0.0)](https://github.com/song940/express-favicon)  [![npm package](https://img.shields.io/npm/v/npmdoc-express-favicon.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-express-favicon) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-express-favicon.svg)](https://travis-ci.org/npmdoc/node-npmdoc-express-favicon)
+
 #### express favicon
 
-[![NPM](https://nodei.co/npm/express-favicon.png?downloads=true)](https://www.npmjs.com/package/express-favicon)
+[![NPM](https://nodei.co/npm/express-favicon.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/express-favicon)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-express-favicon/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-express-favicon_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-express-favicon/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-express-favicon/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-express-favicon/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-express-favicon/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-express-favicon/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-express-favicon/build/screenCapture.npmPackageListing.svg)
 
@@ -24,8 +29,7 @@
     },
     "contributors": [
         {
-            "name": "Jannis R",
-            "email": "mail@jannisr.de"
+            "name": "Jannis R"
         }
     ],
     "dependencies": {
@@ -58,13 +62,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "song940",
-            "email": "song940@gmail.com"
+            "name": "song940"
         }
     ],
     "name": "express-favicon",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/song940/express-favicon.git"
@@ -75,16 +77,6 @@
     "version": "2.0.0"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module express-favicon](#apidoc.module.express-favicon)
-
-
-
-# <a name="apidoc.module.express-favicon"></a>[module express-favicon](#apidoc.module.express-favicon)
 
 
 
